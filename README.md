@@ -42,7 +42,6 @@ Working on an affiliate network that connects **advertisers and affiliates** and
 Building and experimenting with websites, campaigns, marketing systems, and online business ideas.
 
 ---
-
 ## 📚 Currently Learning
 
 - Advanced Affiliate Marketing
